@@ -1,0 +1,3 @@
+# TLFrontier bootstrap endpoint
+switch=false
+base=http://108.214.140.15:7041

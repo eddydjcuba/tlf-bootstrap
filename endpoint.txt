@@ -2,6 +2,6 @@
 #switch=true
 #base=http://108.214.140.15:7041
 #base2=http://108.214.140.88:7041
-switch=false
+switch=true
 base=http://108.214.140.15:7041
 base2=
